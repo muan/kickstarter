@@ -1,17 +1,15 @@
-This is a kickstart project landing page template made by [Mu-An](http://muan.co) using [Jekyll](http://jekyllrb.com).<br />
-Inspired by [Soma's landing page project](https://github.com/somawater/kickstarter), originally made for [Stair Rover](http://www.stair-rover.com) and now for everyone.
-
-#
-
 ### Intro
 
-This should be pain-free to set up even if you are not tech-savvy, here's some of the basics about this project just so you have an idea:
+This is a kickstart project landing page template made by [Mu-An](http://muan.co) using [Jekyll](http://jekyllrb.com).<br />
+It is **pain-free** to set up even if you are not tech-savvy, here's a live demo: [http://kickstarter.muan.co/](http://kickstarter.muan.co/), and here's some of the basics about this project just so you have an idea:
 
-1. This generator is biult using Jekyll, but there's no need to worry if you don't know what it is
+1. The template is biult using Jekyll, but there's no need to worry if you don't know what it is
 2. Everything can be personalised in the file called `_config.yml`
-3. You should be able to set up absolutely **everything** without leaving GitHub
+3. You should be able to set up **absolutely everything** without leaving GitHub
 4. The page would be hosted using GitHub pages, and it is soooo easy
 5. The url will look something like this: `http://[your_username].github.io/`, and [you can use a custom domain](https://help.github.com/articles/setting-up-a-custom-domain-with-pages) if you have one.
+
+Inspired by [Soma's landing page project](https://github.com/somawater/kickstarter), originally made for [Stair Rover](http://www.stair-rover.com) and now for everyone.
 
 #
 
