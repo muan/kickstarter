@@ -1,6 +1,6 @@
 ### Intro
 
-This is a kickstart project landing page template made by [Mu-An](http://muan.co) using [Jekyll](http://jekyllrb.com).<br />
+This is a kickstart project landing page template made by [Mu-An](https://twitter.com/muanchiou) using [Jekyll](http://jekyllrb.com).<br />
 It is **pain-free** to set up even if you are not tech-savvy, here's a live demo: [http://kickstarter.muan.co/](http://kickstarter.muan.co/), and here's some of the basics about this project just so you have an idea:
 
 1. The template is biult using Jekyll, but there's no need to worry if you don't know what it is
