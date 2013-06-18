@@ -1,7 +1,7 @@
 ### Intro
 
 This is a kickstart project landing page template made by [Mu-An](https://twitter.com/muanchiou) using [Jekyll](http://jekyllrb.com).<br />
-It is **pain-free** to set up even if you are not tech-savvy, here's a live demo: [http://kickstarter.muan.co/](http://kickstarter.muan.co/), and here's some of the basics about this project just so you have an idea:
+It is **pain-free** to set up even if you are not tech-savvy, here's a live demo: [http://muan.co/kickstarter](http://muan.co/kickstarter), and here's some of the basics about this project just so you have an idea:
 
 1. The template is biult using Jekyll, but there's no need to worry if you don't know what it is
 2. Everything can be personalised in the file called `_config.yml`
@@ -16,9 +16,9 @@ Inspired by [Soma's landing page project](https://github.com/somawater/kickstart
 ### Instruction
 
 1. You will need to have a [GitHub account](https://github.com/signup/free).
-2. [Fork](https://github.com/muan/kickstarter/fork) this repository (Feel free to ignore the terminology and just click the link)
-3. You will now have a clone under your account, now go to `https://github.com/[your_username]/kickstarter/settings` and change your repository name to `[your_username].github.io`
-4. Now personalise the project page by going to `https://github.com/[your_username]/[your_username].github.io/edit/gh-pages/_config.yml`. <br />After you're done, just click on **Commit Changes**.
+2. After you're logged in, [fork](https://github.com/muan/kickstarter/fork) this repository (Feel free to ignore the terminology and just click the link)
+3. You will now have a clone under your account, go to `https://github.com/[your_username]/kickstarter/settings` and change your repository name to `[your_username].github.io`
+4. Finally, personalise the project page by going to `https://github.com/[your_username]/[your_username].github.io/edit/gh-pages/_config.yml` and edit the Kickstarter specific settings. <br />After you're done, just click on **Commit Changes**.
 5. You should be all set to go now, how nice! Go to `http://[your_username].github.io/` to see if it works!
 
 #
