@@ -8,7 +8,7 @@ rdiscount:
   extensions:     [smart]
 
 # Kickstarter specific settings
-website:          http://www.stair-rover.com/       # Your website ( If different to this page )
+website:          http://www.stair-rover.com/       # Your website ( could be same as this page )
 url:              http://[your_username].github.io/ # This page
 project:
   name:           Stair-Rover
