@@ -1,0 +1,27 @@
+title:            Stair-Rover
+theme:            basic
+
+pygments:         true
+permalink:        pretty
+markdown:         rdiscount
+rdiscount:
+  extensions:     [smart]
+
+# Kickstarter specific settings
+website:          http://www.stair-rover.com/       # Your website ( If different to this page )
+url:              http://[your_username].github.io/ # This page
+project:
+  name:           Stair-Rover
+  url:            http://www.kickstarter.com/projects/stair-rover/stair-rover-surf-the-city-with-an-innovative-longboard
+  cover_image:    http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg
+  description:    Stair-Rover is a longboard that glides down stairs with a blast.
+
+facebook_page:    https://www.facebook.com/StairRover
+google_analytics: 
+twitter_handle:   StairRover
+
+welcome_text:     |
+  This is the Stair-Rover team greeting from Lonodn. <br />
+  First of all, thank you for signing up to our mailing list. <br />
+  Here's to tell you that our project is now live on Kickstarter,
+  and now we have to count on your support to not only back the project, but also share the love. ♥

@@ -1,0 +1,6 @@
+.sass-cache/
+_site/
+build/
+server/
+.rvmrc
+.DS_Store
