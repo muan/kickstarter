@@ -25,7 +25,7 @@ h1.title {
   0.5% {
     min-height: 100%; }
 
-  30% {
+  50% {
     min-height: 100%; }
 
   100% {
@@ -35,7 +35,7 @@ h1.title {
   0.5% {
     min-height: 100%; }
 
-  30% {
+  50% {
     min-height: 100%; }
 
   100% {
@@ -45,7 +45,7 @@ h1.title {
   0.5% {
     min-height: 100%; }
 
-  30% {
+  50% {
     min-height: 100%; }
 
   100% {
@@ -55,7 +55,7 @@ h1.title {
   0.5% {
     min-height: 100%; }
 
-  30% {
+  50% {
     min-height: 100%; }
 
   100% {
@@ -65,17 +65,67 @@ h1.title {
   0.5% {
     min-height: 100%; }
 
-  30% {
+  50% {
     min-height: 100%; }
 
   100% {
     min-height: 0; } }
 
+@-webkit-keyframes fadein {
+  0% {
+    opacity: 0; }
+
+  66% {
+    opacity: 0; }
+
+  100% {
+    opacity: 1; } }
+
+@-moz-keyframes fadein {
+  0% {
+    opacity: 0; }
+
+  66% {
+    opacity: 0; }
+
+  100% {
+    opacity: 1; } }
+
+@-ms-keyframes fadein {
+  0% {
+    opacity: 0; }
+
+  66% {
+    opacity: 0; }
+
+  100% {
+    opacity: 1; } }
+
+@-o-keyframes fadein {
+  0% {
+    opacity: 0; }
+
+  66% {
+    opacity: 0; }
+
+  100% {
+    opacity: 1; } }
+
+@keyframes fadein {
+  0% {
+    opacity: 0; }
+
+  66% {
+    opacity: 0; }
+
+  100% {
+    opacity: 1; } }
+
 .cover-splash {
   *zoom: 1;
-  -webkit-animation: collpase 4s ease-out;
-  -moz-animation: collpase 4s ease-out;
-  animation: collpase 4s ease-out;
+  -webkit-animation: collpase 2s ease-in;
+  -moz-animation: collpase 2s ease-in;
+  animation: collpase 2s ease-in;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -ms-background-size: cover;
@@ -92,6 +142,11 @@ h1.title {
     display: table; }
   .cover-splash:after {
     clear: both; }
+
+body > .wrapper {
+  -webkit-animation: fadein 2.4s ease-in;
+  -moz-animation: fadein 2.4s ease-in;
+  animation: fadein 2.4s ease-in; }
 
 .wrapper {
   -webkit-box-sizing: border-box;

@@ -24,13 +24,18 @@ h1.title {
 
 @include keyframes(collpase) {
   0.5% { min-height: 100%; }
-  30% { min-height: 100%; }
+  50% { min-height: 100%; }
   100% { min-height: 0; }
+}
+@include keyframes(fadein) {
+  0% { opacity: 0 }
+  66% { opacity: 0 }
+  100% { opacity: 1 }
 }
 
 .cover-splash {
   @include clearfix;
-  @include animation(collpase 4s ease-out);
+  @include animation(collpase 2s ease-in);
   @include background-size(cover);
   text-shadow: 0 0 1px black, 0 0 1px black, 0 2px 2px black, 0 2px 6px black;
   color: white;
@@ -39,6 +44,8 @@ h1.title {
   background-position: 0 50%;
   border-bottom: 1px solid #545454;
 }
+
+body > .wrapper { @include animation(fadein 2.4s ease-in); }
 
 .wrapper {
   @include box-sizing(border-box);
