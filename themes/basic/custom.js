@@ -27,5 +27,7 @@ $(document).ready(function() {
   $("#project").click(function() {
     window.open($(this).data("url"), 'sharer');
   });
+  var h = $(".cover-splash").outerHeight()
+  $(".cover-splash").css("height", h + "px")
 
 })

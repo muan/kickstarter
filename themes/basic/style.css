@@ -1,3 +1,6 @@
+html, body {
+  height: 100%; }
+
 body {
   background-color: #fff;
   font-family: "Noticia Text", serif;
@@ -18,7 +21,61 @@ h1.title {
   margin: 0 auto;
   font-size: 30px; }
 
+@-webkit-keyframes collpase {
+  0.5% {
+    min-height: 100%; }
+
+  30% {
+    min-height: 100%; }
+
+  100% {
+    min-height: 0; } }
+
+@-moz-keyframes collpase {
+  0.5% {
+    min-height: 100%; }
+
+  30% {
+    min-height: 100%; }
+
+  100% {
+    min-height: 0; } }
+
+@-ms-keyframes collpase {
+  0.5% {
+    min-height: 100%; }
+
+  30% {
+    min-height: 100%; }
+
+  100% {
+    min-height: 0; } }
+
+@-o-keyframes collpase {
+  0.5% {
+    min-height: 100%; }
+
+  30% {
+    min-height: 100%; }
+
+  100% {
+    min-height: 0; } }
+
+@keyframes collpase {
+  0.5% {
+    min-height: 100%; }
+
+  30% {
+    min-height: 100%; }
+
+  100% {
+    min-height: 0; } }
+
 .cover-splash {
+  *zoom: 1;
+  -webkit-animation: collpase 4s ease-out;
+  -moz-animation: collpase 4s ease-out;
+  animation: collpase 4s ease-out;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -ms-background-size: cover;
@@ -27,8 +84,14 @@ h1.title {
   text-shadow: 0 0 1px black, 0 0 1px black, 0 2px 2px black, 0 2px 6px black;
   color: white;
   padding: 100px 0 20px;
+  height: 239px;
   background-position: 0 50%;
   border-bottom: 1px solid #545454; }
+  .cover-splash:before, .cover-splash:after {
+    content: " ";
+    display: table; }
+  .cover-splash:after {
+    clear: both; }
 
 .wrapper {
   -webkit-box-sizing: border-box;
@@ -52,8 +115,12 @@ button {
   -ms-transition: all 0.2s;
   -o-transition: all 0.2s;
   transition: all 0.2s;
+  display: inline-block;
+  vertical-align: baseline;
+  zoom: 1;
+  *display: inline;
+  *vertical-align: auto;
   font-family: "Noticia Text", serif;
-  display: block;
   margin: 10px auto 0;
   background-color: #202020;
   color: #fff;
@@ -124,7 +191,7 @@ button {
 .footer {
   text-align: center;
   color: #999;
-  margin-bottom: 20px; }
+  padding-bottom: 20px; }
   .footer a {
     color: #888; }
   .footer span {
