@@ -18,7 +18,7 @@ Inspired by [Soma's landing page project](https://github.com/somawater/kickstart
 1. You will need to have a [GitHub account](https://github.com/signup/free).
 2. After you're logged in, [fork](https://github.com/muan/kickstarter/fork) this repository (Feel free to ignore the terminology and just click the link)
 3. You will now have a clone under your account, go to `https://github.com/[your_username]/kickstarter/settings` and change your repository name to `[your_username].github.io`
-4. Finally, personalise the project page by going to `https://github.com/[your_username]/[your_username].github.io/edit/gh-pages/_config.yml` and edit the Kickstarter specific settings. <br />After you're done, just click on **Commit Changes**.
+4. Finally, personalise the project page by going to `https://github.com/[your_username]/[your_username].github.io/edit/master/_config.yml` and edit the Kickstarter specific settings. <br />After you're done, just click on **Commit Changes**.
 5. You should be all set to go now, how nice! Go to `http://[your_username].github.io/` to see if it works!
 
 #
