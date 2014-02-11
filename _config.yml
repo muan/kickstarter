@@ -1,4 +1,3 @@
-
 pygments:         true
 permalink:        pretty
 markdown:         rdiscount
@@ -18,7 +17,7 @@ theme:            basic
 website:          http://www.stair-rover.com/
 #
 # 2. URL of this page
-url:              http://[your_username].github.io/
+url:              http://leemaman.github.io/
 #
 # 3. About your kickstarter project
 project:
@@ -43,7 +42,7 @@ google_analytics:
 #
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
-  This is the Stair-Rover team greeting from London. <br />
+  This is the Stair-Rover team greeting from . <br />
   First of all, thank you for signing up to our mailing list. <br />
   Here's to tell you that our project is now live on Kickstarter,
   and now we have to count on your support to not only back the project, but also share the love. ♥
