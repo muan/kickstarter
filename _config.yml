@@ -42,7 +42,7 @@ google_analytics:
 #
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
-  this is for my kickstarter, hold me down . <br />
+  this is not for my kickstarter, hold me down . <br />
   First of all, thank you for signing up to our mailing list. <br />
   Here's to tell you that our project is now live on Kickstarter,
   and now we have to count on your support to not only back the project, but also share the love. ♥
