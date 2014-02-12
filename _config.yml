@@ -46,3 +46,80 @@ welcome_text:     |
   First of all, thank you for signing up to our mailing list. <br />
   Here's to tell you that our project is now live on Kickstarter,
   and now we have to count on your support to not only back the project, but also share the love. ♥
+<head>
+      
+        
+        
+      
+      <title>Stair-Rover</title>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta name="viewport" content="width=device-width">
+      <meta name="description" content="">
+      <base href="http://muan.co/kickstarter/">
+      <link rel="stylesheet" href="themes/-global/css/normalize.min.css">
+      <link rel="stylesheet" href="themes/-global/css/syntax.css">
+      <link rel="stylesheet" href="themes/-global/css/boilerplate.css">
+      <link rel="stylesheet" href="themes/-global/css/basics.css">
+      <script src="themes/-global/js/modernizr-2.6.2.min.js"></script>
+      <script src="themes/-global/js/jquery-1.9.1.min.js"></script>
+      <script type='text/javascript'>
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', '']);
+          _gaq.push(['_trackPageview']);
+          
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+      </script>
+      
+      <link rel="stylesheet" href="themes/basic/style.css">
+      <script src="themes/basic/custom.js"></script>
+  </head>
+  <body>
+    <!--[if lt IE 7]>
+      <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
+    <div class="cover-splash" style="background-image: url(http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg);">
+      <div class="wrapper">
+        <h1 class="title">
+          Stair-Rover
+        </h1>
+        <p>Stair-Rover is a longboard that glides down stairs with a blast.</p>
+      </div>
+    </div>
+    <div class="wrapper">
+      <h2>Hello there!</h2>
+
+<p>This is the Stair-Rover team greeting from London. <br />
+First of all, thank you for signing up to our mailing list. <br />
+Here&rsquo;s to tell you that our project is now live on Kickstarter,
+and now we have to count on your support to not only back the project, but also share the love. ♥</p>
+
+<p>Support us with 3 clicks now!</p>
+
+
+      <div class="steps">
+
+        <div class="step" data-step="1">
+          Share on Facebook<br />
+          <button id="share" data-url="http://kck.st/12bbLkw">Share</button>
+        </div>
+        <div class="step" data-step="2">
+          Post to Twitter<br />
+          <button id="tweet" data-url="http://kck.st/12bbLkw" data-via="StairRover" data-name="Stair-Rover">Tweet</button>
+        </div>
+        <div class="step no-margin" data-step="3">
+          Watch our video<br />
+          <button id="project" data-url="http://kck.st/12bbLkw" data-via="StairRover" data-name="Stair-Rover">View on Kickstarter</button>
+        </div>
+
+      </div>
+    </div>
+    <div class="footer">
+      <span>&copy;</span> <a href="http://www.stair-rover.com/" target="_blank">Stair-Rover</a>. Made with <a href="http://github.com/muan/kickstarter" target="_blank">this</a>.
+    </div>
+  </body>
+</html>
