@@ -10,7 +10,7 @@ rdiscount:
 # Basics
 #
 # 0. Page title and theme
-title:            Stair-Rover
+title:            Vein: From A Dream…
 theme:            basic
 #
 # 1. Your website ( could be same as this page - see below )
@@ -23,16 +23,17 @@ url:              http://lee1maman.github.io/
 project:
   #
   # Name of the project
-  name:           Stair-Rover
+  name:           Vein: From A Dream…
   #
   # URL of the project. Use short urls to ensure you track the visits (Optional)
   url:            http://kck.st/12bbLkw
   #
   # URL of a cover photo of your project
-  cover_image:    http://static.wixstatic.com/media/b11e60_7416a5fc41a5d30b8b458bbe6c23b90f.jpg
+  cover_image:    http://i61.tinypic.com/2v9vv5z.jpg
   #
   # Use a one-liner to describe your project
-  description:    Stair-Rover is a longboard that glides down stairs with a blast.
+  description:    My name is Vein. I make music for you so I need YOUR support to launch my next project! <br /> 
+  Let's be a part of something great. Together.
 #
 # 4. Your Twitter handle
 twitter_handle:   StairRover
@@ -42,7 +43,10 @@ google_analytics:
 #
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
-  this is not for my kickstarter, hold me down . <br />
-  First of all, thank you for signing up to our mailing list. <br />
-  Here's to tell you that our project is now live on Kickstarter,
-  and now we have to count on your support to not only back the project, but also share the love. ♥
+  Hey everybody! <br />
+I just want to take the time to thank you in advance for supporting my music and getting involved with the new album! <br />
+This is a very special project for me, and by far, the most exciting! <br />
+Please jump on board and be part of my team with just three simple clicks! <br />
+And when you arrive at my Kickstarter page, you can take it even further by pledging! <br />
+<br />
+THANKS! ♥
